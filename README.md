@@ -1,1 +1,1 @@
-# PIC16-blog
+# Link to mini projects
